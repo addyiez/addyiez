@@ -17,8 +17,6 @@
 ### 🤝 Connect with me:
 
 -linkedIn: http://www.linkedin.com/in/Adityadeopaul/ <br/>
--Facebook: https://www.facebook.com/adityadeo.paul/ <br/>
--Instagram: https://www.instagram.com/Aaditya.deo/ <br/>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
