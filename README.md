@@ -143,6 +143,10 @@
   <a href="http://www.linkedin.com/in/Adityadeopaul/">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Deo%20Paul-blue?style=for-the-badge&logo=linkedin"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:adityadeopaul@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Aditya%20Deo%20Paul-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 
