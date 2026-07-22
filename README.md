@@ -173,18 +173,6 @@
 
 
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=addyiez&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=addyiez&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=addyiez&theme=tokyonight" />
-</p>
 <img src="https://komarev.com/ghpvc/?username=addyiez&color=1f6feb&style=flat&label=" />
 
 ---
