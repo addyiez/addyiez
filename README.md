@@ -165,17 +165,12 @@
 ---
 
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/addyiez/addyiez/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 
 
 <img src="https://komarev.com/ghpvc/?username=addyiez&color=1f6feb&style=flat&label=" />
 
----
+
 
 <h3 align="center">✨ Thanks for visiting my profile ✨</h3>
 
